@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: A little Personal
 permalink: /about/
 ---
 <p>Hi!I am Surbhi Palande, I am a Ph.D. candidate at University of British Columbia, Vancouver.
