@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Buses"
+date:   2023-11-1 12:15:02 -0700
+categories: computer buses
+---
+A bus is a collection of electrical wires grouped by a single name. 
+They allow devices to be easily plugged in the computer and allows orderly flow of data between one device and another. 
+Buses are implemented with a particular specification and that distinguishes them into different types. The specifications can be data rate, reliability, electrical characteristics, bus controller topologies (dedicated controller vs not) etc. Buses can be internal data buses or external. An example of external data bus is a USB bus. 
+Buses usually have a number of basic components such as data bus, optional address bus, control lines and handshaking lines. In the absence of the address/handshaking/control lines, the data bus can be used for the same purpose; doing so reduces the number of lines in a bus. It is commonly seen in serial buses.
+Data is exchanged on these buses using a standard protocol. 
+Computer systems include many busses, we will only cover the PCI bus. The PC bus was developed for previous, slower motherboards and processors. Soon, with the advent of faster CPUs, faster buses became a necessity. In light of this, Intel developed a new interface called the Peripheral Component Interconnection (PCI) local bus, for the Pentium processor. This bus allowed fast memory, disk and video access. It runs at the clock frequency of the motherboard. It bridges onto other buses such as SATA, USB etc. Thus, it serves as a foundation bus for the other buses. :
+
+
