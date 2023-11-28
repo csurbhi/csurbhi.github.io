@@ -1,0 +1,21 @@
+Spectre meltdown
+This is a side channel attack that gives secret information to an attacker while a program executes.  At a high level level, Spectre attacks trick the processor into speculatively
+executing instruction sequences (branch prediction) that should not have been executed under correct program execution.  As the effects of these instructions on the nominal CPU state are eventually
+reverted, we call them transient instructions. By influencing which transient instructions are speculatively executed, the attackers are able to leak information from within the victim’s memory
+address space.
+
+
+The paper gives an example of the following code:
+if (x < array1-size)
+	y = array2[array1[x] * 4096];
+
+For ease of understanding, say this is the code the attacker is trying to attack. If x is provided as a parameter by the attacker, then they can at first
+provide x that are less than the size. Now that the CPU expects x to be of a size less than the array_size, it will run speculatively assuming that x will
+likely be less than the size and execute the code as if it is. Now, when the attacker provides a value of x that is larger than size, the CPU will execute
+the code and put in y, a value that reflects the higher value of x. This value is cached by the CPU.  When it actually does find out that x infact was
+greater than the size, it discards all the register values that resulted from this wrong speculation and goes back to skipping this if condition. However,
+it does not delete the entries from cache. The attacker can now read the values from the cache and gain information about the memory contents of the victim program.
+
+Similar attacks allows the attacker to read the contents of cache, and are
+called as side channel attacks, where the attacker reads the memory contents
+by reading the cache rather than directly reading the memory.
