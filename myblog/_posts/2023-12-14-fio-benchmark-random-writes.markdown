@@ -1,6 +1,4 @@
 FIO benchmarks for writes on Linux:
-
-  
   
 
 FIO is an open source storage benchmark that runs on many Operating systems. It is used to measure a file/device’s read/write bandwidth and IOPS. In this article we look at the FIO options on Linux.
