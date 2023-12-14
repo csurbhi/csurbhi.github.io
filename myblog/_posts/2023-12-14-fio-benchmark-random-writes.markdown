@@ -62,6 +62,7 @@ The difference between iodepth and iodepth_batch can be expressed as follows in 
 		goto resume_queueing;
 	}
 ---------------------
+
 Note that iodepth is not the same as the queue depth of a storage device. It is possible to ensure that the backend storage device receives maximum requests it can hold in it’s hardware queue. This can be done for example by making sure that the kernel’s io scheduler always has enough I/Os to send to the backend device. To do so, we can specify iodepth to be a number much larger that the actual queue depth of the backend storage device. We can next specify the iodepth_batch to match that of the known “queue depth” on the storage device hardware. This way, FIO can allow a larger number of I/Os to be in-flight (or incomplete) than the true queue depth of the backend device. This ensures that the backend device will always have maximum number of I/Os queued in the hardware queues.
 
 However, you cannot ensure the “queue depth” on the backend storage device using “iodepth” and “iodepth_batch” will always hold. This can ensure that the maximum i/o’s submitted to the device through this instance of FIO will always be less than or equal to the “iodepth”. Note that the io’s issued by this FIO, can at times be lesser than iodepth mentioned. For example: Say iodepth is 4. FIO issues at max 4 ios and waits for 1 to complete. The instance 1 i/o completes FIO starts generating and queueing i/o again. Before a new i/O is submitted back to the underlying device, it can happen that all the previous in-flight i/os completed and now the device has no i/o queued in it’s hardware queues. Hence FIO can guarantee that this instance of FIO can issue a maximum of iodepth requests to the backend storage but it cannot guarantee that the device consistently operates at that iodepth.
@@ -132,6 +133,7 @@ This blog will not talk about the difference between the random distributions, g
     |-> 	25.00% 	0.36% 	97.20% 	468626 		1.79G    
     |-> 	30.00% 	0.30% 	97.50% 	394525 		1.50G
     -----------------------------------------------------------------------    
+
 This is what fio-genzipf code does:
 
 	main()
