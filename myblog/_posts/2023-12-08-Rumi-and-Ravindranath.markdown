@@ -1,18 +1,29 @@
-Rumi was born as Jalal ad-Din Mohammad Balkhi in Persia early in the
-thirteenth centruy. The poet was known as Rumi based after the city he lived
-in. Rumi composed many works of mysticism and expressed the deepest longinhs
-of the human heart for it's beloved divine.
+Rumi was born as Jalal ad-Din Mohammad Balkhi in Persia on September 30th 1207. 
+The poet was known as Rumi based after the city he lived
+in. Rumi composed many works of mysticism and expressed the deepest longings
+of the human heart for it's beloved divine. Rumi was a mystic, a deep thinker, a sufi poet and all his work quenches the readers thirst to express the divine and find themselves.
+
+![Rumi - Jalal ad Din Mohammad Balkhi](images/Rumi.jpg "Rumi - Jalal ad Din Mohammad Balkhi")
+
+Rumi was born in Balkh that is a part of Afghanistan today. He grew up in a Persian family. His father Baha Al Din Walad was a famous Islamist jurist, theologian, and scholar. Rumi was exposed to Islamic teachings from a very young age. During the Mongol ivasion the family had to flee Afghanistan and settle in Konya, Turkey.
+
+Rumi studied philiosophy, Islamic jurisprudence, and spirituality under the guidance of scholars in Konya. His encounter with the wandering dervish (member of the Sufi or Islamic mystic fraternity) Shams al-Din Tabrizi transformed his life. Shams mentored Rumi in a deep understanding of Sufi poetry. 
+
+Rumi wrote over 65000 verses, that mostly spanned into two important collections: the mystical poetry compiled in the Mathnavi or Masnavi and the second one Divan-e Shams-e Tabrizi that was dedicated to his beloved mentor Shams al-Din Tabrizi. Rumi founded the Mevlevi order also known as the Whirling Dervishes whose hypnotic whirling/spinning dance symbolizes the seeker's journey to divine reunion.
+
+![Mevlevi](images/WhirlingDervish.jpg "Mevlevi - Whirling Dervish")
+
+Rumi influenced many poets that came after, one of them seems to be Ravindranath Tagore who was born nearly 6 centuries later. 
 
 Ravindranath Tagore was born in May 1861 and wrote similar poems that expressed the
 transcendent intimacy for the divine. His much acclaimed work "Gitanjali"
 translated by Tagore in English (in 1912), earned him the Nobel prize in
 Literature in 1913. The idea of a direct, joyful, and totally fearless relationship
 with God can be found in many of Tagore’s religious writings, including the poems of Gitanjali.
-This is similar to the writings of Rumi in my very humble opinion!
+This is similar to the writings of Rumi in my very humble opinion! Unlike Rumi, Ravindranath Tagore did not meet any enlightened teacher or only write mystical verses or essays. He also wrote about other non mystical matters such as nationalism, poverty, etc. 
 
-Ravindranath Tagore is the only person who has written the
-national anthems of two countries: India and Bangladesh. He wrote India's
-national anthem "Jana Gana Mana" and Bandladesh's "Amar sonar Bangla".
+![Ravindranath Tagore](images/Tagore.jpg "Ravindranath Tagore")
+
 Ravindranath Tagore's own family was a confluence of three cultures: "Hinduism",
 "Mohammedean" and "British". His father Dwarkanath was well known for his
 command over "Arabic" and "Persian". Ravindranath grew in an atmosphere in
@@ -26,6 +37,7 @@ novels, playwrights, essays on politics, literature, culture, social change,
 religious beliefs, philosophical analysis, international relations and much
 else. He also painted pictures and depicted a mix of representation and
 whimsical abstraction.
+
 It is interesting to note that Tagore's idea of Shantiniketan inspired
 Leonard Elmhirst to set up Dartington Hall in UK and Mushanokōji Saneatsu to
 setup the Little Village in Japan. The idea was to do local changes at the
@@ -43,13 +55,18 @@ continued into his beard, so that he gave an impression, to the boy I was then, 
 some ancient Oriental wizard!
 
 
+Ravindranath Tagore is the only person who has written the
+national anthems of two countries: India and Bangladesh. He wrote India's
+national anthem "Jana Gana Mana" and Bandladesh's "Amar sonar Bangla".
 
-The poems of both poets strung a heart's exalted yearning, ravishing ecstacy and
+The poems of both Ravindranath Tagore and Rumi strung a heart's exalted yearning, ravishing ecstacy and
 consuming desire! They are as powerful today as they were many years ago!
 An ambiguity about religious experience is central to many of Rumi and Tagore’s devotional
 poems, and makes them appeal to readers irrespective of their beliefs.
 This applies particularly to their many poems which combine images of human love and
-those of pious devotion.
+those of pious devotion. 
+
+Here, I have compiled some of the poems of both the poets.
 
 Some famous poems by Ravindranath Tagore:
 
