@@ -11,6 +11,8 @@ Rumi studied philiosophy, Islamic jurisprudence, and spirituality under the guid
 
 Rumi wrote over 65000 verses, that mostly spanned into two important collections: the mystical poetry compiled in the Mathnavi or Masnavi and the second one Divan-e Shams-e Tabrizi that was dedicated to his beloved mentor Shams al-Din Tabrizi. Rumi founded the Mevlevi order also known as the Whirling Dervishes whose hypnotic whirling/spinning dance symbolizes the seeker's journey to divine reunion.
 
+Rumi’s philosophy is based on the idea that ***we are all interconnected and that love is the essence of all existence***. He believed that the goal of life is to realize our oneness with God and with all creation.
+
 ![Mevlevi](images/WhirlingDervish.jpg "Mevlevi - Whirling Dervish")
 
 Rumi influenced many poets that came after, one of them seems to be Ravindranath Tagore who was born nearly 6 centuries later. 
@@ -276,6 +278,7 @@ reader!!*
 
 
 **HAVE YOU NOT HEARD HIS SILENT STEPS?**
+
 Here is a poem by Ravindranath Tagore, that I love a lot! I learnt this as a
 child, at my school. I was startled to learn a song about God that was so
 simple and that evoked surrendering or seeing God everywhere!
@@ -312,6 +315,76 @@ So beautiful <3
 	that press upon my heart, and it is the golden touch
 
 	of his feet that makes my joy to shine.
+
+
+**Famous Quotes by the Great Rumi <3**
+
+“**Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it**.” We already have all the love we need inside of us, but we may have built up walls that prevent us from experiencing it fully. By removing these barriers, we can open ourselves up to more love in our lives.
+
+
+"**I have learned so much from God that I do not look for anything outside of myself. Everything is within me, the entire universe is inside me**".
+
+
+**When I Die by Rumi**
+
+	When I die
+	when my coffin
+	is being taken out
+	you must never think
+	i am missing this world
+
+	don't shed any tears
+	don't lament or
+	feel sorry
+	i'm not falling
+	into a monster's abyss
+
+	when you see
+	my corpse is being carried
+	don't cry for my leaving
+	i'm not leaving
+	i'm arriving at eternal love
+
+	when you leave me
+	in the grave
+	don't say goodbye
+	remember a grave is
+	only a curtain
+	for the paradise behind
+
+	you'll only see me
+	descending into a grave
+	now watch me rise
+	how can there be an end
+	when the sun sets or
+	the moon goes down
+
+	it looks like the end
+	it seems like a sunset
+	but in reality it is a dawn
+	when the grave locks you up
+	that is when your soul is freed
+
+	have you ever seen
+	a seed fallen to earth
+	not rise with a new life
+	why should you doubt the rise
+	of a seed named human
+
+	have you ever seen
+	a bucket lowered into a well
+	coming back empty
+	why lament for a soul
+	when it can come back
+	like Joseph from the well
+
+	when for the last time
+	you close your mouth
+	your words and soul
+	will belong to the world of
+	no place no time
+
+How lucky are we to read these great words that came from the minds of these blessed souls!! How many hearts they touch, how much love they spread, and how eternal they are.
 
 
 
