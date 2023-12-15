@@ -68,161 +68,250 @@ those of pious devotion.
 
 Here, I have compiled some of the poems of both the poets.
 
-Some famous poems by Ravindranath Tagore:
-
-Waiting:
-
-The song I came to sing
-Remains unsung till today!
-I have spent my days in stringing
-and in unstringing my instrument.
-
-The time has not come true,
-the words have not been rightly set,
-only there is agony
-of whishing in my heart....
-
-I have not seen his face,
-nor have I listened to his voice,
-only I have heard his gentle footsteps
-from the road before my house...
-
-But the lamp has not been lit
-And I cannot ask him into my house;
-I live in the hope of meeting with him;
-but this meeting is not yet!
+![Mystic Poetry](images/Love.jpg "Pure poetry")
 
 
-This poem is about Tagore's yearning to meet God!
+--------------
+**Waiting by Ravindranath Tagore:**
+
+	The song I came to sing
+
+	Remains unsung till today!
+
+	I have spent my days in stringing
+
+	and in unstringing my instrument.
+
+
+	The time has not come true,
+
+	the words have not been rightly set,
+
+	only there is agony
+
+	of whishing in my heart....
+
+
+	I have not seen his face,
+
+	nor have I listened to his voice,
+
+	only I have heard his gentle footsteps
+
+	from the road before my house...
+
+
+	But the lamp has not been lit
+
+	And I cannot ask him into my house;
+
+	I live in the hope of meeting with him;
+
+	but this meeting is not yet!
 
 
 
-Here is a poem by Rumi:
+-------------------
 
 
-Agony and Ecstasy of Divine Discontent: The Moods of Rumi
-
-In the orchard and rose garden
-I long to see your face
-In the taste of sweetness
-I long to kiss your lips.
-In the shadows of passion
-I long for your love.
-
-Oh! Supreme lover!
-Let me leave aside my worries.
-The flowers are blooming
-with the exultation of your Spirit.
-
-By Allah!
-I long to escape the prison of my ego
-and lose myself in the mountains and the desert.
-
-These sad and lonely people tire me.
-I long to revel in the drunken frenzy of your love
-and feel the strength of Rustom in my hands.
-
-I am sick of mortal kings
-I long to see your light!
-With lamps in hand
-the sheikhs and mullahs roam
-the dark alleys of these towns
-not finding what they seek.
-
-Your are the Essence of the Essence,
-The intoxication of Love,
-I long to sing your praises
-but stand mute
-with the agony of wishing in my heart!
+**Agony and Ecstasy of Divine Discontent: The Moods of Rumi**
 
 
-This poem is Rumi's earnest request to unite with God!! How beautiful it is.
+	In the orchard and rose garden
+
+	I long to see your face
+
+	In the taste of sweetness
+
+	I long to kiss your lips.
+
+	In the shadows of passion
+
+	I long for your love.
+
+
+
+	Oh! Supreme lover!
+
+	Let me leave aside my worries.
+
+	The flowers are blooming
+
+	with the exultation of your Spirit.
+
+
+
+	By Allah!
+
+	I long to escape the prison of my ego
+
+	and lose myself in the mountains and the desert.
+
+
+	These sad and lonely people tire me.
+
+	I long to revel in the drunken frenzy of your love
+
+	and feel the strength of Rustom in my hands.
+
+
+	I am sick of mortal kings
+
+	I long to see your light!
+
+	With lamps in hand
+
+	the sheikhs and mullahs roam
+
+	the dark alleys of these towns
+
+	not finding what they seek.
+
+	Your are the Essence of the Essence,
+
+	The intoxication of Love,
+
+	I long to sing your praises
+
+	but stand mute
+
+	with the agony of wishing in my heart!
+
+
+*This poem is Rumi's earnest request to unite with God!! How beautiful it is.
 It is so wonderful that after all these years, the poem brings peace to the
-reader!!
+reader!!*
 
 
 
-Come to Me:
+**Come to Me: by Rumi**
 
-I am your lover
-Come to my side
-I will open
-the gate to your love
+	I am your lover
 
-Come settle with me
-Let us be neighbors
-to the stars
+	Come to my side
 
-You have been hiding so long
-aimlessly drifting
-in the sea of my love.
+	I will open
 
-Even so
-you have always been
-connected to me
-Concealed, revealed
-in the known
-in the unmanifest
-I am life itself.
+	the gate to your love
 
-You have been a prisoner
-of a little pond
-I am the ocean
-and its turbulent flood
-Come merge with me
-leave this world of ignorance
+	Come settle with me
 
-Be with me
-I will open
-the gate to your love.
+	Let us be neighbors
+
+	to the stars
+
+	You have been hiding so long
+
+	aimlessly drifting
+
+	in the sea of my love.
+
+	Even so
+
+	you have always been
+
+	connected to me
+
+	Concealed, revealed
+
+	in the known
+
+	in the unmanifest
+
+	I am life itself.
+
+	You have been a prisoner
+
+	of a little pond
+
+	I am the ocean
+
+	and its turbulent flood
+
+	Come merge with me
+
+	leave this world of ignorance
+
+	Be with me
+
+	I will open
+
+	the gate to your love.
 
 
-This poem is about what the divine says to the man!!
+**Behind the scenes by Rumi:**
 
+	Is it your face
 
-Another poem from Rumi:
-
-Behind the scenes:
-
-Is it your face
 	that adorns this garden?
-Is it your fragrance
+	
+	Is it your fragrance
+
 	that intoxicates this garden?
-Is it your spirit
+	
+	Is it your spirit
+
 	that has made this brook
-		a river of wine?
+	
+	a river of wine?
+		
 
-Hundereds have looked for you
+	Hundereds have looked for you	
+
 	and died searching
+	
 	in this garden
-where you hide behind the scenes.
+	
+	where you hide behind the scenes.
 
-But this pain is not for those
+	But this pain is not for those
+
 	who come as lovers.
-You are easy to find here.
-You are in the breeze
-and in this river of wine
+		
+	You are easy to find here.
+
+	You are in the breeze
+
+	and in this river of wine
 
 
+**HAVE YOU NOT HEARD HIS SILENT STEPS?**
 Here is a poem by Ravindranath Tagore, that I love a lot! I learnt this as a
-child, at my school. I was stratled to learn a song about God that was so
-simple and that evoked surrender, where the poet sees God in everything!!
+child, at my school. I was startled to learn a song about God that was so
+simple and that evoked surrendering or seeing God everywhere!
 So beautiful <3 
 
-HAVE YOU NOT HEARD HIS SILENT STEPS?
 
-HAVE you not heard his silent, steps?
-He comes, comes, ever comes.
-Every moment and every age, every day and every night he comes, comes, ever comes.
 
-Many a song have I sung in many a mood of mind, but all their notes have always
-proclaimed, "He comes, comes, ever comes."
-In the fragrant days of sunny April through the forest path he comes, comes, ever
-comes.
-In the rainy gloom of July nights on the thundering chariot of clouds he comes, comes,
-ever comes.
-In sorrow after sorrow it is his steps that press upon my heart, and it is the golden touch
-of his feet that makes my joy to shine.
+	HAVE you not heard his silent, steps?
+
+	He comes, comes, ever comes.
+
+	Every moment and every age, every day and every night he comes, comes, ever comes.
+
+
+	Many a song have I sung in many a mood of mind, 
+
+	but all their notes have always proclaimed, 
+
+	He comes, comes, ever comes.
+	
+
+	In the fragrant days of sunny April
+
+ 	through the forest path he comes, comes, ever comes.
+ 	 
+
+	In the rainy gloom of July nights
+
+	on the thundering chariot of clouds he comes, comes, ever comes.
+
+	
+	In sorrow after sorrow it is his steps
+
+	that press upon my heart, and it is the golden touch
+
+	of his feet that makes my joy to shine.
 
 
 
