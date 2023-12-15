@@ -27,7 +27,7 @@ place filesystems, object based filesystem, PCIe, NVMe, ATA, SATA, Synchronous
 and Asynchronous writes, fio, Linux kernel programming, testing  and other
 stuff that will get added along the way.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "/myblog/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: csurbhi
 github_username:  csurbhi
 permalink: /:title/
