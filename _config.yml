@@ -20,12 +20,7 @@
 
 title: Storage Blogger
 email: csurbhi at gmail dot com
-description: >- # this means to ignore newlines until "baseurl:"
-  This is a blog by a systems researcher, it will soon talk about FTL
-research, log structured filesystems, copy on write filesystems, overwrite in
-place filesystems, object based filesystem, PCIe, NVMe, ATA, SATA, Synchronous
-and Asynchronous writes, fio, Linux kernel programming, testing  and other
-stuff that will get added along the way.
+description: "" # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: csurbhi
