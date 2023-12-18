@@ -1,34 +1,22 @@
 # FIO benchmarks for random writes on Linux:
-  
+ 
 
-FIO is an open source storage benchmark that runs on many Operating systems. It is used to measure a file/device’s read/write bandwidth and IOPS. In this article we look at the FIO options on Linux.
+"FIO, an open-source storage benchmark, is compatible with various operating systems, making it a versatile tool for assessing the read/write bandwidth and IOPS (Input/Output Operations Per Second) of a file or device. This article focuses on exploring FIO options specifically within the Linux environment.
 
-  
+FIO operates through command line options or a configuration file, allowing users to specify their preferred settings. It conducts either synchronous or asynchronous I/O operations on a designated file or device based on the specified options. The nature of the I/O, whether buffered or directed to the underlying device, is determined by these options.
 
-FIO runs with command line options or a configuration file with the options specified. It performs synchronous or asynchronous I/O to some file/device using the specified options. The options decide if the I/O is buffered or is directed to the underlying device.
-
-Synchronous and asynchronous reads have to go to the device in case the requested read data is not buffered. *However, writes can complete without going to the device; the data is written in the page cache and the userspace write can complete.* *In this case, we see the bandwidth and iops reflect the i/o to the DRAM rather than the backend device.*
-
+When dealing with synchronous and asynchronous **reads**, data must reach the device if the requested information is not buffered. However, in the case of writes, completion can occur without immediate interaction with the device. Instead, the data is written to the page cache, and the userspace write can be finalized. Consequently, in such scenarios, the recorded bandwidth and IOPS values reflect the I/O to the DRAM (Dynamic Random-Access Memory) rather than the backend device."
+ 
   
 FIO has a lot of parameters, we can look at some of the relevant and interesting parameters:
 
 1.  **ioengine**: this specifies the mode of the I/O. I/O can be submitted synchronously or asynchronously. The ioengine for synchronous I/O is “sync” and for asynchronous I/O there are quite a few options: “libaio”, “io_uring”, ”posix_aio” etc. Note that on Linux, libaio is older than io_uring.  
 
-  
-
-2.  **direct**: This specifies the kind of the i/o in terms of location. If direct = 0, the i/o is buffered and comes out of the buffer/page cache. If direct = 1, this is equivalent to the O_DIRECT flag. Note that when ioengine is “libaio”, direct has to be 1 or buffered has to be 0. Libaio does not support buffered i/o on Linux. 
-
+  2.  **direct**: This specifies the kind of the i/o in terms of location. If direct = 0, the i/o is buffered and comes out of the buffer/page cache. If direct = 1, this is equivalent to the O_DIRECT flag. Note that when ioengine is “libaio”, direct has to be 1 or buffered has to be 0. Libaio does not support buffered i/o on Linux. 
  
-
 3.  **buffered**: This is opposite to the direct flag. By default this is 1 or “true”.
-    
 
- 
-4.  **iodepth**: This specifies the number of asynchronous I/O that are kept in flight against a particular file/device. This parameter matters only when the specified ioengine is NOT synchronous.
-    
-iodepth does not specify how many ios can be submitted together at a time. This is specified by the iodepth_batch option we see next.
-
-  
+4.  **iodepth**: This specifies the number of asynchronous I/O that are kept in flight against a particular file/device. This parameter matters only when the specified ioengine is NOT synchronous.  iodepth does not specify how many I/Os can be submitted together at a time. This is specified by the iodepth_batch option we see next.  
 
 5.  **iodepth_batch** - This suggests how many asynchronous I/Os can be submitted together.
     
@@ -52,15 +40,20 @@ iodepth does not specify how many ios can be submitted together at a time. This 
 	}
 
 
-***Note that iodepth is not the same as the queue depth of a storage device.*** It is possible to ensure that the backend storage device receives maximum requests it can hold in it’s hardware queue. This can be done for example by making sure that the kernel’s io scheduler always has enough I/Os to send to the backend device. To do so, we can specify iodepth to be a number much larger that the actual queue depth of the backend storage device. We can next specify the iodepth_batch to match that of the known “queue depth” on the storage device hardware. This way, FIO can generate a larger number of I/Os , they can be in-flight (or incomplete). This ensures that fio will always send to the kernel (thus the ioscheduler) a constant stream of I/Os. In this way, the backend device will always have maximum number of I/Os queued in the hardware queues.
+***Note that iodepth is not the same as the queue depth of a storage device.*** It is possible to ensure that the backend storage device receives maximum requests it can hold in it’s hardware queue. 
 
-However, FIO cannot ensure  that the storage device's queue will always hold the specified "iodepth" I/Os. 
-The combination of "iodepth" and "iodepth_batch" can ensure that the maximum i/o’s (but not the minimum) submitted to the device through this particular instance of FIO will always be less than or equal to the “iodepth”.  For example: Say iodepth is 4. FIO issues at max 4 ios and waits for 1 to complete. The instance 1 i/o completes FIO starts generating and queueing i/o again. Generating, queueing and process scheduling (FIO can get scheduled out and in) introduces a delay during which the storage backend can complete all the queued I/O. At this point the number of requests in the I/O queue can become 0.
+One method to achieve this is to ensure that the kernel's I/O scheduler consistently possesses a sufficient number of I/Os to dispatch to the backend device. This can be accomplished by setting the 'iodepth' to a value significantly larger than the actual queue depth of the backend storage device. Following this, specifying 'iodepth_batch' to align with the recognized 'queue depth' on the storage device's hardware is crucial. This strategy ensures a continuous stream of I/Os directed to the kernel (and subsequently the I/O scheduler), guaranteeing that the backend device consistently maintains the maximum number of queued I/Os in its hardware queues."
+
+Nevertheless, FIO cannot guarantee that the storage device's queue will consistently maintain the specified 'iodepth' I/Os. The coordinated use of 'iodepth' and 'iodepth_batch,' however, ensures that the maximum number of I/O operations (though not the minimum) submitted to the device during a specific instance of FIO will always be equal to or less than the defined 'iodepth.
+
+
+To illustrate, consider a scenario where 'iodepth' is set to 4. FIO issues a maximum of 4 I/Os and awaits the completion of at least one before initiating the generation and queuing of additional I/Os. As FIO resumes generating, queuing, and undergoing process scheduling (taking into account potential scheduling in and out of FIO), delays are introduced. During these intervals, the storage backend may successfully complete all the queued I/O. Consequently, the number of requests in the I/O queue can drop to zero at this point."
+
 
 
 **FIO Reads and Writes:**
 
-In order to examine the performance of the backend device, the “direct” flag should always be 1 (and/or the “buffered” flag should be 0). Not doing so, may provide the performance of reads/writes to the page cache. Unless you want to demonstrate the efficiency of your cache, FIO should use “direct=1” to showcase the true device performance.
+To accurately assess the performance of the backend device, it is imperative to set the 'direct' flag to 1, and optionally ensure the 'buffered' flag is set to 0. Failure to do so may result in the evaluation of reads/writes to the page cache, potentially providing a skewed representation of performance. Unless the objective is specifically to demonstrate the efficiency of the cache, it is recommended that FIO employs 'direct=1' to present an accurate depiction of the true device performance."
 
 -------------------------------
 
@@ -101,11 +94,11 @@ To benchmark the random write performance we need to set two more parameters at 
 1.  **readwrite**=randwrite
 	  This indicates that FIO will issue random writes. The other option could be randrw or randread that says that FIO will issue random reads and writes or random reads respectively.
 
-2.  **random_distribution**: FIO generates random I/O with a distribution specified by this parameter. The values for this can be “zipf”, “zoned”, “pareto”, and “normal”. These can parameters can be augmented with a second optional float value. It allows one to set base of distribution in non-default place, giving more control over most probable outcome. This value is in range [0-1] which maps linearly to range of possible random values. Defaults are: 0.3 for pareto, 1.2 for zipf, and 0.5 for normal. As an example: If you wanted to use zipf with a theta of 1.2 centered on 1/4 of allowed value range, you would use random_distribution=zipf:1.2:0.25.
+2.  **random_distribution**: FIO generates random I/O with a distribution specified by this parameter. The values for this can be “zipf”, “zoned”, “pareto”, and “normal”. These can parameters can be augmented with a second optional float value. It allows one to set base of distribution in non-default place, giving more control over most probable outcome. This specified value can be in the range [0-1]. Defaults are: pareto power of 0.3 for Pareto Distribution, $\theta$  of 1.2 for zipf distribution, and $\sigma$ of 0.5 for Normal Distribution. As an example: If you wanted to use zipf with a $\theta$ of 1.2 centered on 1/4 of allowed value range, you would use random_distribution=zipf:1.2:0.25.
 
-This blog will not talk about the difference between the random distributions, google can provide plenty of resources for that. Here, we only look at ways to configure FIO to achieve the distribution of our choice. 
+*This blog will not delve into the distinctions between various random distributions, as ample resources on that topic are readily available through Google. Instead, our focus here is solely on exploring configurations within FIO that allow us to achieve the desired distribution.* 
 
- FIO comes with a **fio-genzip** tool that shows the random distribution associated with the optional theta// for zipf, pareto and normal random distribution.
+To enhance the configurability of random distributions, FIO includes a tool called 'fio-genzip,' offering insights into the distribution associated with optional theta values for zipf, pareto, and normal random distributions.
 
 	   $ fio-genzipf -h shows the following:
     	genzipf: test zipf/pareto values for fio input
@@ -119,7 +112,7 @@ This blog will not talk about the difference between the random distributions, g
     	-o Number of output rows
     	-c Output ranges in CSV format
 
-    The default theta value for zipf is 1.2. Running, fio-genzipf for “zipf” with the default theta gives you the following output (partial output pasted here).
+    The default $\theta$ value for zipf is 1.2. Running, fio-genzipf for “zipf” with the default theta gives you the following output (partial output pasted here).
     $ fio-genzipf -t zipf
     Generating Zipf distribution with 1.200000 input and 500 GiB size and 4096 block_size.
     Rows 		Hits % 		Sum % 		# Hits 			Size    
