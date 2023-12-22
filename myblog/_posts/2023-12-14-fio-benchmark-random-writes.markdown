@@ -78,7 +78,7 @@ Similarly, **asynchronous I/O** can be configured as follows:
 	direct = 1
 	buffered = 0
 	iodepth = "x"
-	io_batch = "y" [where y < x ]
+	iodepth_batch = "y" [where y < x ]
 
 OR
 
@@ -162,7 +162,19 @@ This is what fio-genzipf code does:
 To summarize, the *fio-genzipf code basically sorts based on hits and presents a summary* that by default is for every 5% hit intervals. The 2nd column shows the percentage hits received by an interval. For example, the above output says that 5% of the random LBAs receive 95% hits.
 
   
-For zipf, *a higher theta gives smaller tail values*. **To achieve a 80/20 distribution, specify theta to be 0.9517**
+For zipf, *a higher theta gives smaller tail values*. 
+
+**To achieve a 90/10 distribution, specify a theta to be 1.0962**
+
+	$ fio-genzipf -t zipf -i 1.0962	
+	Generating Zipf distribution with 1.096200 input and 500 GiB size and 4096 block_size.
+	
+	Rows Hits % Sum % # Hits Size
+	-----------------------------------------------------------------------
+	Top 5.00% 87.80% 87.80% 115084376 439.01G
+	|-> 10.00% 2.20% 90.00% 2885564 11.01G
+
+**To achieve a 80/20 distribution, specify theta to be 0.9517**
   
 
 	$ fio-genzipf -t zipf -i 0.9517
@@ -175,14 +187,21 @@ For zipf, *a higher theta gives smaller tail values*. **To achieve a 80/20 distr
 	|-> 20.00% 2.78% 80.00% 3647538 13.91G
 
 
+**To achieve a 70/30 distribution, specify a theta to be 0.76878**
 
-**To achieve a 90/10 distribution, specify a theta to be 1.0962**
-	$ fio-genzipf -t zipf -i 1.0962	
-	Generating Zipf distribution with 1.096200 input and 500 GiB size and 4096 block_size.
-	
-	Rows Hits % Sum % # Hits Size
+	$fio-genzipf -t zipf -i 0.76878
+	Generating Zipf distribution with 0.768780 input and 500 GiB size and 4096 block_size.
+
+  	 Rows           Hits %         Sum %           # Hits          Size
 	-----------------------------------------------------------------------
-	Top 5.00% 87.80% 87.80% 115084376 439.01G
-	|-> 10.00% 2.20% 90.00% 2885564 11.01G
+	Top   5.00%      39.49%          39.49%         51761372        197.45G
+	|->  10.00%       9.12%          48.61%         11952380         45.59G
+	|->  15.00%       6.76%          55.37%          8864370         33.81G
+	|->  20.00%       5.73%          61.10%          7510164         28.65G
+	|->  25.00%       4.60%          65.71%          6034457         23.02G
+	|->  30.00%       4.30%          70.00%          5632623         21.49G
+
+**To achieve a 60/40 distribution, specify a theta to be 0.76878**
+
 
 
