@@ -3,7 +3,7 @@ The poet was known as Rumi based after the city he lived
 in. Rumi composed many works of mysticism and expressed the deepest longings
 of the human heart for it's beloved divine. Rumi was a mystic, a deep thinker, a sufi poet and all his work quenches the readers thirst to express the divine and find themselves.
 
-![Rumi - Jalal ad Din Mohammad Balkhi](images/Rumi.jpg "Rumi - Jalal ad Din Mohammad Balkhi")
+![Rumi - Jalal ad Din Mohammad Balkhi](csurbhi.github.io/assets/Rumi.jpg "Rumi - Jalal ad Din Mohammad Balkhi")
 
 Rumi was born in Balkh that is a part of Afghanistan today. He grew up in a Persian family. His father Baha Al Din Walad was a famous Islamist jurist, theologian, and scholar. Rumi was exposed to Islamic teachings from a very young age. During the Mongol ivasion the family had to flee Afghanistan and settle in Konya, Turkey.
 
@@ -13,7 +13,7 @@ Rumi wrote over 65000 verses, that mostly spanned into two important collections
 
 Rumi’s philosophy is based on the idea that ***we are all interconnected and that love is the essence of all existence***. He believed that the goal of life is to realize our oneness with God and with all creation.
 
-![Mevlevi](images/WhirlingDervish.jpg "Mevlevi - Whirling Dervish")
+![Mevlevi](csurbhi.github.io/assets/WhirlingDervish.jpg "Mevlevi - Whirling Dervish")
 
 Rumi influenced many poets that came after, one of them seems to be Ravindranath Tagore who was born nearly 6 centuries later. 
 
@@ -24,7 +24,7 @@ Literature in 1913. The idea of a direct, joyful, and totally fearless relations
 with God can be found in many of Tagore’s religious writings, including the poems of Gitanjali.
 This is similar to the writings of Rumi in my very humble opinion! Unlike Rumi, Ravindranath Tagore did not meet any enlightened teacher or only write mystical verses or essays. He also wrote about other non mystical matters such as nationalism, poverty, etc. 
 
-![Ravindranath Tagore](images/Tagore.jpg "Ravindranath Tagore")
+![Ravindranath Tagore](csurbhi.github.io/assets/Tagore.jpg "Ravindranath Tagore")
 
 Ravindranath Tagore's own family was a confluence of three cultures: "Hinduism",
 "Mohammedean" and "British". His father Dwarkanath was well known for his
