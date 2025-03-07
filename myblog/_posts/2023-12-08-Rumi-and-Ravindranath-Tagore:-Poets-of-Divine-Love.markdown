@@ -67,9 +67,9 @@
 </head>
 <body>
 
-<header>
+<!--<header>
     <h1>Rumi and Tagore: Poets of Divine Love</h1>
-</header>
+</header> -->
 
 <section>
     <h2>Rumi: The Mystic Poet</h2>
