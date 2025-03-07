@@ -77,7 +77,10 @@
 The poet was known as Rumi based after the city he lived
 in. Rumi composed many works of mysticism and expressed the deepest longings
 of the human heart for it's beloved divine. Rumi was a mystic, a deep thinker, a sufi poet and all his work quenches the readers thirst to express the divine and find themselves.
-Rumi was born in Balkh that is a part of Afghanistan today. He grew up in a Persian family. His father Baha Al Din Walad was a famous Islamist jurist, theologian, and scholar. Rumi was exposed to Islamic teachings from a very young age. During the Mongol ivasion the family had to flee Afghanistan and settle in Konya, Turkey.
+Rumi was born in Balkh that is a part of Afghanistan today. He grew up in a
+Persian family. His father Baha Al Din Walad was a famous Islamist jurist,
+theologian, and scholar. Rumi was exposed to Islamic teachings from a very
+young age. During the Mongol invasion the family had to flee Afghanistan and settle in Konya, Turkey.
 
 <p> Rumi studied philiosophy, Islamic jurisprudence, and spirituality under the guidance of scholars in Konya. His encounter with the wandering dervish (member of the Sufi or Islamic mystic fraternity) Shams al-Din Tabrizi transformed his life. Shams mentored Rumi in a deep understanding of Sufi poetry. 
 Rumi wrote over 65000 verses, that mostly spanned into two important collections: the mystical poetry compiled in the Mathnavi or Masnavi and the second one Divan-e Shams-e Tabrizi that was dedicated to his beloved mentor Shams al-Din Tabrizi. Rumi founded the Mevlevi order also known as the Whirling Dervishes whose hypnotic whirling/spinning dance symbolizes the seeker's journey to divine reunion.
