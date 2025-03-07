@@ -474,7 +474,15 @@ me.</blockquote>
 </blockquote>
 
 How lucky are we to read these great words that came from the minds of these blessed souls!! How many hearts they touch, how much love they spread, and how eternal they are.
-I am complete a fangirl of Rumi and Ravindranath Tagore!! 
+I am complete a fangirl of Rumi and Ravindranath Tagore!!
 
 
+</section>
+
+<footer>
+    <p>Created with love and devotion to Rumi and Tagore</p>
+</footer>
+
+</body>
+</html>
 
