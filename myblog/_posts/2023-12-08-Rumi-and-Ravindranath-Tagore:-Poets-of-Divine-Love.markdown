@@ -14,8 +14,7 @@
             padding: 0;
         }
         header {
-            <!-- background-color: #3e3e3e; -->
-	    background-color: #add8e6; /* Light Blue */
+            background-color: DodgerBlue;
             color: white;
             padding: 1em;
             text-align: center;
@@ -298,18 +297,17 @@ So beautiful <3
 	HAVE you not heard his silent, steps?<br>
 	He comes, comes, ever comes.<br>
 	Every moment and every age, every day and every night he comes, comes, ever comes.<br>
-<br><br>
-
+<br>
 	Many a song have I sung in many a mood of mind, <br>
 	but all their notes have always proclaimed, <br>
 	He comes, comes, ever comes.<br>
 	<br>
 	In the fragrant days of sunny April<br>
  	through the forest path he comes, comes, ever comes.<br>	 
-<br><br>
+<br>
 	In the rainy gloom of July nights<br>
 	on the thundering chariot of clouds he comes, comes, ever comes.<br>
-<br><br>
+<br>
 	In sorrow after sorrow it is his steps<br>
 	that press upon my heart, and it is the golden touch<br>
 	of his feet that makes my joy to shine.<br>
@@ -335,68 +333,67 @@ me.</blockquote>
 	is being taken out <br>
 	you must never think <br>
 	i am missing this world <br>
-<br><br>
+<br>
 	don't shed any tears <br>
 	don't lament or <br>
 	feel sorry <br>
 	i'm not falling <br>
 	into a monster's abyss <br>
-<br><br>
+<br>
 	when you see <br>
 	my corpse is being carried <br>
 	don't cry for my leaving <br>
 	i'm not leaving <br>
 	i'm arriving at eternal love <br>
-<br><br>
+<br>
 	when you leave me <br>
 	in the grave <br>
 	don't say goodbye <br>
 	remember a grave is <br>
 	only a curtain <br>
 	for the paradise behind <br>
-<br><br>
+<br>
 	you'll only see me <br>
 	descending into a grave <br>
 	now watch me rise <br>
 	how can there be an end <br>
 	when the sun sets or <br>
 	the moon goes down <br>
-<br><br>
+<br>
 	it looks like the end <br>
 	it seems like a sunset <br>
 	but in reality it is a dawn <br>
 	when the grave locks you up <br>
 	that is when your soul is freed <br>
-<br><br>
+<br>
 	have you ever seen <br>
 	a seed fallen to earth <br>
 	not rise with a new life <br>
 	why should you doubt the rise <br>
 	of a seed named human <br>
-<br><br>
+<br>
 	have you ever seen <br>
 	a bucket lowered into a well <br>
 	coming back empty <br>
 	why lament for a soul <br>
 	when it can come back <br>
 	like Joseph from the well <br>
-<br><br>
+<br>
 	when for the last time <br>
 	you close your mouth <br>
 	your words and soul <br>
 	will belong to the world of <br>
 	no place no time <br>
-<br><br>
+<br>
 </blockquote>
 
 How lucky are we to read these great words that came from the minds of these blessed souls!! How many hearts they touch, how much love they spread, and how eternal they are.
-I am complete a fangirl of Rumi and Ravindranath Tagore!!
-
+I am an absolute fangirl of Rumi and Rabindranath Tagore!
 
 </section>
 
 <footer>
-    <p>Created with love and devotion to Rumi and Tagore</p>
+    <p>Created with love and deep admiration for Rumi and Ravindrnath Tagore</p>
 </footer>
 
 </body>
