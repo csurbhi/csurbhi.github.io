@@ -72,7 +72,7 @@
 
 <section>
     <h2>Rumi: The Mystic Poet</h2>
-    <img src="https://csurbhi.github.io/assets/Rumi.jpg" alt="Rumi - Jalal ad Din Mohammad Balkhi">
+    <img src="https://csurbhi.github.io/myblog/assets/Rumi.jpg" alt="Rumi - Jalal ad Din Mohammad Balkhi">
 <p>Rumi was born as Jalal ad-Din Mohammad Balkhi in Persia on September 30th 1207. 
 The poet was known as Rumi based after the city he lived
 in. Rumi composed many works of mysticism and expressed the deepest longings
@@ -85,14 +85,14 @@ Rumi wrote over 65000 verses, that mostly spanned into two important collections
 <p> Rumi’s philosophy is based on the idea that <strong>we are all
 interconnected and that love is the essence of all existenced</strong>. He believed that the goal of life is to realize our oneness with God and with all creation.
 
-<img src="https://csurbhi.github.io/assets/WhirlingDervish.jpg" alt="Mevlevi - Whirling Dervish">
+<img src="https://csurbhi.github.io/myblog/assets/WhirlingDervish.jpg" alt="Mevlevi - Whirling Dervish">
 
 <p> Rumi influenced many poets that came after, one of them seems to be Ravindranath Tagore who was born nearly 6 centuries later.
 </section>
 
 <section>
 <h2>Ravindranath Tagore: The Philosopher Poet</h2>
-<img src="https://csurbhi.github.io/assets/Tagore.jpg" alt="Ravindranath Tagore">
+<img src="https://csurbhi.github.io/myblog/assets/Tagore.jpg" alt="Ravindranath Tagore">
 <p> Ravindranath Tagore was born in May 1861 and wrote similar poems that expressed the
 transcendent intimacy for the divine. His much acclaimed work "Gitanjali"
 translated by Tagore in English (in 1912), earned him the Nobel prize in
@@ -160,7 +160,7 @@ those of pious devotion.
 
 <section>
 <h2> Selected Poetry </h2>
-<img src="https://csurbhi.github.io/assets/Love.jpg" alt="Pure poetry">
+<img src="https://csurbhi.github.io/myblog/assets/Love.jpg" alt="Pure poetry">
 <h3> Waiting by Ravindranath Tagore </h3>
 <blockquote>
 
