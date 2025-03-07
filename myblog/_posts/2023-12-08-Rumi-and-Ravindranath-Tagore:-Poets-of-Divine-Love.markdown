@@ -167,42 +167,26 @@ those of pious devotion.
 <img src="https://csurbhi.github.io/myblog/assets/Love.jpg" alt="Pure poetry">
 <h3> Waiting by Ravindranath Tagore </h3>
 <blockquote>
-
-	The song I came to sing
-
-	Remains unsung till today!
-
-	I have spent my days in stringing
-
-	and in unstringing my instrument.
-
-
-	The time has not come true,
-
-	the words have not been rightly set,
-
-	only there is agony
-
-	of whishing in my heart....
-
-
-	I have not seen his face,
-
-	nor have I listened to his voice,
-
-	only I have heard his gentle footsteps
-
-	from the road before my house...
-
-
-	But the lamp has not been lit
-
-	And I cannot ask him into my house;
-
-	I live in the hope of meeting with him;
-
-	but this meeting is not yet!
-
+	The song I came to sing<br>
+	Remains unsung till today! <br>
+	I have spent my days in stringing<br>
+	and in unstringing my instrument.<br>
+	<br>
+	The time has not come true, <br>
+	the words have not been rightly set,<br>
+	only there is agony <br>
+	of whishing in my heart....<br>
+	<br>
+	I have not seen his face,<br>
+	nor have I listened to his voice, <br>
+	only I have heard his gentle footsteps<br>
+	from the road before my house...<br>
+	</br>
+	But the lamp has not been lit<br>
+	And I cannot ask him into my house;<br>
+	I live in the hope of meeting with him;<br>
+	but this meeting is not yet!<br>
+	<br>
 </blockquote>
 
 <h3> Agony and Ecstasy of Divine Discontent: The Moods of Rumi </h3>
