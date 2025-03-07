@@ -191,66 +191,43 @@ those of pious devotion.
 
 <h3> Agony and Ecstasy of Divine Discontent: The Moods of Rumi </h3>
 <blockquote>
-
-	In the orchard and rose garden
-
-	I long to see your face
-
-	In the taste of sweetness
-
-	I long to kiss your lips.
-
-	In the shadows of passion
-
-	I long for your love.
-
-
-
-	Oh! Supreme lover!
-
-	Let me leave aside my worries.
-
-	The flowers are blooming
-
-	with the exultation of your Spirit.
-
-
-
-	By Allah!
-
-	I long to escape the prison of my ego
-
-	and lose myself in the mountains and the desert.
-
-
-	These sad and lonely people tire me.
-
-	I long to revel in the drunken frenzy of your love
-
-	and feel the strength of Rustom in my hands.
-
-
-	I am sick of mortal kings
-
-	I long to see your light!
-
-	With lamps in hand
-
-	the sheikhs and mullahs roam
-
-	the dark alleys of these towns
-
-	not finding what they seek.
-
-	Your are the Essence of the Essence,
-
-	The intoxication of Love,
-
-	I long to sing your praises
-
-	but stand mute
-
+<br>
+	In the orchard and rose garden<br>
+	I long to see your face<br>
+	In the taste of sweetness<br>
+	I long to kiss your lips.<br>
+	In the shadows of passion<br>
+	I long for your love.<br>
+<br>
+<br>
+	Oh! Supreme lover!<br>
+	Let me leave aside my worries.<br>
+	The flowers are blooming<br>
+	with the exultation of your Spirit.<br>
+<br>
+<br>
+	By Allah!<br>
+	I long to escape the prison of my ego<br>
+	and lose myself in the mountains and the desert.<br>
+	These sad and lonely people tire me.<br>
+	I long to revel in the drunken frenzy of your love<br>
+	and feel the strength of Rustom in my hands.<br>
+<br>
+<br>
+	I am sick of mortal kings<br>
+	I long to see your light!<br>
+	With lamps in hand<br>
+	the sheikhs and mullahs roam<br>
+	the dark alleys of these towns<br>
+	not finding what they seek.<br>
+	Your are the Essence of the Essence,<br>
+<br>
+<br>
+	The intoxication of Love,<br>
+	I long to sing your praises<br>
+	but stand mute<br>
 	with the agony of wishing in my heart!
+	<br><br>
 </blockquote>
 *This poem is Rumi's earnest request to unite with God!! How beautiful it is.
 It is so wonderful that after all these years, the poem brings peace to the
@@ -260,94 +237,54 @@ reader!!*
 
 <h3> Come to Me: by Rumi </h3>
 <blockquote>
-	I am your lover
-
-	Come to my side
-
-	I will open
-
-	the gate to your love
-
-	Come settle with me
-
-	Let us be neighbors
-
-	to the stars
-
-	You have been hiding so long
-
-	aimlessly drifting
-
-	in the sea of my love.
-
-	Even so
-
-	you have always been
-
-	connected to me
-
-	Concealed, revealed
-
-	in the known
-
-	in the unmanifest
-
-	I am life itself.
-
-	You have been a prisoner
-
-	of a little pond
-
-	I am the ocean
-
-	and its turbulent flood
-
-	Come merge with me
-
-	leave this world of ignorance
-
-	Be with me
-
-	I will open
-
-	the gate to your love.
+	I am your lover<br>
+	Come to my side<br>
+	I will open<br>
+	the gate to your love<br>
+	Come settle with me<br>
+	Let us be neighbors<br>
+	to the stars<br>
+	You have been hiding so long<br>
+	aimlessly drifting<br>
+	in the sea of my love.<br>
+	Even so<br>
+	you have always been<br>
+	connected to me<br>
+	Concealed, revealed<br>
+	in the known<br>
+	in the unmanifest<br>
+	I am life itself.<br>
+	You have been a prisoner<br>
+	of a little pond<br>
+	I am the ocean<br>
+	and its turbulent flood<br>
+	Come merge with me<br>
+	leave this world of ignorance<br>
+	Be with me<br>
+	I will open<br>
+	the gate to your love.<br>
 </blockquote>
 
 <h3>Behind the scenes by Rumi:</h3>
 <blockquote>
-
-	Is it your face
-
-	that adorns this garden?
-	
-	Is it your fragrance
-
-	that intoxicates this garden?
-	
-	Is it your spirit
-
-	that has made this brook
-	
-	a river of wine?
-		
-
-	Hundereds have looked for you	
-
-	and died searching
-	
-	in this garden
-	
-	where you hide behind the scenes.
-
-	But this pain is not for those
-
-	who come as lovers.
-		
-	You are easy to find here.
-
-	You are in the breeze
-
-	and in this river of wine
+	Is it your face<br>
+	that adorns this garden?<br>
+	Is it your fragrance<br>
+	that intoxicates this garden?<br>	
+	Is it your spirit<br>
+	that has made this brook<br>	
+	a river of wine?<br>		
+<br>
+	Hundereds have looked for you	<br>
+	and died searching<br>	
+	in this garden<br>	
+	where you hide behind the scenes.<br>
+<br>
+	But this pain is not for those<br>
+	who come as lovers.<br>
+	You are easy to find here.<br>
+	You are in the breeze<br>
+	and in this river of wine<br>
 </blockquote>
 
 <h3> HAVE YOU NOT HEARD HIS SILENT STEPS? </h3>
@@ -357,35 +294,24 @@ simple and that evoked surrendering or seeing God everywhere!
 So beautiful <3  
 <blockquote>
 
-	HAVE you not heard his silent, steps?
+	HAVE you not heard his silent, steps?<br>
+	He comes, comes, ever comes.<br>
+	Every moment and every age, every day and every night he comes, comes, ever comes.<br>
+<br><br>
 
-	He comes, comes, ever comes.
-
-	Every moment and every age, every day and every night he comes, comes, ever comes.
-
-
-	Many a song have I sung in many a mood of mind, 
-
-	but all their notes have always proclaimed, 
-
-	He comes, comes, ever comes.
-	
-
-	In the fragrant days of sunny April
-
- 	through the forest path he comes, comes, ever comes.
- 	 
-
-	In the rainy gloom of July nights
-
-	on the thundering chariot of clouds he comes, comes, ever comes.
-
-	
-	In sorrow after sorrow it is his steps
-
-	that press upon my heart, and it is the golden touch
-
-	of his feet that makes my joy to shine.
+	Many a song have I sung in many a mood of mind, <br>
+	but all their notes have always proclaimed, <br>
+	He comes, comes, ever comes.<br>
+	<br>
+	In the fragrant days of sunny April<br>
+ 	through the forest path he comes, comes, ever comes.<br>	 
+<br><br>
+	In the rainy gloom of July nights<br>
+	on the thundering chariot of clouds he comes, comes, ever comes.<br>
+<br><br>
+	In sorrow after sorrow it is his steps<br>
+	that press upon my heart, and it is the golden touch<br>
+	of his feet that makes my joy to shine.<br>
 </blockquote>
 
 <h3>Famous Quotes by the Great Rumi </h3>
@@ -403,62 +329,63 @@ me.</blockquote>
 
 <h3>When I Die by Rumi</h3>
 <blockquote>
-	When I die
-	when my coffin
-	is being taken out
-	you must never think
-	i am missing this world
-
-	don't shed any tears
-	don't lament or
-	feel sorry
-	i'm not falling
-	into a monster's abyss
-
-	when you see
-	my corpse is being carried
-	don't cry for my leaving
-	i'm not leaving
-	i'm arriving at eternal love
-
-	when you leave me
-	in the grave
-	don't say goodbye
-	remember a grave is
-	only a curtain
-	for the paradise behind
-
-	you'll only see me
-	descending into a grave
-	now watch me rise
-	how can there be an end
-	when the sun sets or
-	the moon goes down
-
-	it looks like the end
-	it seems like a sunset
-	but in reality it is a dawn
-	when the grave locks you up
-	that is when your soul is freed
-
-	have you ever seen
-	a seed fallen to earth
-	not rise with a new life
-	why should you doubt the rise
-	of a seed named human
-
-	have you ever seen
-	a bucket lowered into a well
-	coming back empty
-	why lament for a soul
-	when it can come back
-	like Joseph from the well
-
-	when for the last time
-	you close your mouth
-	your words and soul
-	will belong to the world of
-	no place no time
+	When I die<br>
+	when my coffin<br>
+	is being taken out<br>
+	you must never think<br>
+	i am missing this world<br>
+<br><br>
+	don't shed any tears<br>
+	don't lament or<br>
+	feel sorry<br>
+	i'm not falling<br>
+	into a monster's abyss<br>
+<br><br>
+	when you see<br>
+	my corpse is being carried<br>
+	don't cry for my leaving<br>
+	i'm not leaving<br>
+	i'm arriving at eternal love<br>
+<br><br>
+	when you leave me<br>
+	in the grave<br>
+	don't say goodbye<br>
+	remember a grave is<br>
+	only a curtain<br>
+	for the paradise behind<br>
+<br><br>
+	you'll only see me<br>
+	descending into a grave<br>
+	now watch me rise<br>
+	how can there be an end<br>
+	when the sun sets or<br>
+	the moon goes down<br>
+<br><br>
+	it looks like the end<br>
+	it seems like a sunset<br>
+	but in reality it is a dawn<br>
+	when the grave locks you up<br>
+	that is when your soul is freed<br>
+<br><br>
+	have you ever seen<br>
+	a seed fallen to earth<br>
+	not rise with a new life<br>
+	why should you doubt the rise<br>
+	of a seed named human<br>
+<br><br>
+	have you ever seen<br>
+	a bucket lowered into a well<br>
+	coming back empty<br>
+	why lament for a soul<br>
+	when it can come back<br>
+	like Joseph from the well<br>
+<br><br>
+	when for the last time<br>
+	you close your mouth<br>
+	your words and soul<br>
+	will belong to the world of<br>
+	no place no time<br>
+<br><br>
 </blockquote>
 
 How lucky are we to read these great words that came from the minds of these blessed souls!! How many hearts they touch, how much love they spread, and how eternal they are.
