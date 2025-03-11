@@ -132,7 +132,7 @@ else. He also painted pictures and depicted a mix of representation and
 whimsical abstraction.
 
 <h2> Outdoor Studies held at Shantiniketan </h2>
-<img src="https://csurbhi.github.io/myblog/assets/Shantiniketan.jpg">
+<img src="https://csurbhi.github.io/myblog/assets/Shantiniketan.jpeg">
 
 <p> It is interesting to note that Tagore's idea of Shantiniketan inspired
 Leonard Elmhirst to set up Dartington Hall in UK and Mushanokōji Saneatsu to
