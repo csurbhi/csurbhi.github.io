@@ -117,8 +117,8 @@ outlook was persistently non sectarian! Ravindranath Tagore was also influenced 
 Bauls are a group of mystic minstrels of mixed elements of Suifism and Vaishnavism from Bengal (West and East),
 Tripura, Assam, and Meghalaya of India.  Baul music celebrates celestial love, but does this in very earthy terms, as in declarations of love by the Baul for his lifemate. With such a liberal interpretation of love, it is only natural that Baul devotional music transcends religion!! One of Baul's iconic composer "Lalon Shah" was a Bengali spiritual leader, philosopher and mystic. It is believed that he highly influenced Ravindranath Tagore. <i> Lalon's philosophy of humanity rejects all distinctions of caste, class, and creed and takes stand against theological conflicts and racism. It denies all worldly affairs in search of the soul and embodied the socially transformative role of sub-continental <b> Bhakti and Sufism </b> </i>
 <br>
-<h1>A painting of the spiritual mystic Lalon Shah by Ravindranath Tagore's older brother</h1>
-<img src="https://csurbhi.github.io/myblog/assets/Fakir_Lalon_Shah.jpeg" alt="A painting of the spiritual mystic Lalon Shah by Ravindranath Tagore's older brother">
+<h2>A painting of the spiritual mystic Lalon Shah by Ravindranath Tagore's older brother</h2>
+<img src="https://csurbhi.github.io/myblog/assets/Fakir_Lalon_Shah.jpeg">
 <br>
 
 <p> Most of Ravindranath Tagore's work was written in
@@ -131,8 +131,8 @@ religious beliefs, philosophical analysis, international relations and much
 else. He also painted pictures and depicted a mix of representation and
 whimsical abstraction.
 
-<h1> Outdoor Studies held at Shantiniketan </h1>
-<img src="https://csurbhi.github.io/myblog/assets/Shantiniketan.jpg" alt="Outdoor Studies held at Shantiniketan">
+<h2> Outdoor Studies held at Shantiniketan </h2>
+<img src="https://csurbhi.github.io/myblog/assets/Shantiniketan.jpg">
 
 <p> It is interesting to note that Tagore's idea of Shantiniketan inspired
 Leonard Elmhirst to set up Dartington Hall in UK and Mushanokōji Saneatsu to
