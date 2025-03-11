@@ -117,7 +117,7 @@ outlook was persistently non sectarian! Ravindranath Tagore was also influenced 
 Bauls are a group of mystic minstrels of mixed elements of Suifism and Vaishnavism from Bengal (West and East),
 Tripura, Assam, and Meghalaya of India.  Baul music celebrates celestial love, but does this in very earthy terms, as in declarations of love by the Baul for his lifemate. With such a liberal interpretation of love, it is only natural that Baul devotional music transcends religion!! One of Baul's iconic composer "Lalon Shah" was a Bengali spiritual leader, philosopher and mystic. It is believed that he highly influenced Ravindranath Tagore. <i> Lalon's philosophy of humanity rejects all distinctions of caste, class, and creed and takes stand against theological conflicts and racism. It denies all worldly affairs in search of the soul and embodied the socially transformative role of sub-continental <b> Bhakti and Sufism </b> </i>
 <br>
-<h2>A painting of the spiritual mystic Lalon Shah by Ravindranath Tagore's older brother</h2>
+<h3>A painting of the spiritual mystic Lalon Shah by Ravindranath Tagore's older brother</h3>
 <img src="https://csurbhi.github.io/myblog/assets/Fakir_Lalon_Shah.jpeg">
 <br>
 
@@ -131,7 +131,7 @@ religious beliefs, philosophical analysis, international relations and much
 else. He also painted pictures and depicted a mix of representation and
 whimsical abstraction.
 
-<h2> Outdoor Studies held at Shantiniketan </h2>
+<h3> Outdoor Studies held at Shantiniketan </h3>
 <img src="https://csurbhi.github.io/myblog/assets/Shantiniketan.jpeg">
 
 <p> It is interesting to note that Tagore's idea of Shantiniketan inspired
@@ -172,7 +172,7 @@ Into that heaven of freedom, my Father, let my country awake!
 
 <p> It is also very interesting to know that while many believe that Ravindranath's poems had a Hindu influence, Ravindranath was a member of the reformist group Brahmo Samaj. Brahmo Samaj rejected many practises in the Hindu religion as abberations. While it branched out of Hinduism, it was heavily influenced by Christianity. It was founded by Raja Ram Mohan Roy. Ravindranath Tagore's father Debendranath Tagore was a founding member of Brahmo Samaj. At one point, Debendranath appointed Ravindranath as Brahmo Samaj's secretary. During this period, Hinduism received revived energy due to the presence of Sri Ramkrishna Paramhansa. Many of Paramhansa's followers published monthly magazines "Nabajiban" and "Prachar", these talked about the greatness of Hinduism over Brahmoism. Ravindranath Tagore heavily criticised these articles! Ravindranath Tagore was a person of logic and all his worldly actions were very much influenced by logic than religion. 
 
-
+<br>
 <img src="https://csurbhi.github.io/myblog/assets/Tagore-Einstein.jpg"
 alt="Ravindranath Tagore and Einstein at the later's residence">
 <br>
