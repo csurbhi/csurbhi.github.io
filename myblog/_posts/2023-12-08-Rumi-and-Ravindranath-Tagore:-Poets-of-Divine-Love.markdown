@@ -116,8 +116,10 @@ outlook was persistently non sectarian! Ravindranath Tagore was also influenced 
 
 Bauls are a group of mystic minstrels of mixed elements of Suifism and Vaishnavism from Bengal (West and East),
 Tripura, Assam, and Meghalaya of India.  Baul music celebrates celestial love, but does this in very earthy terms, as in declarations of love by the Baul for his lifemate. With such a liberal interpretation of love, it is only natural that Baul devotional music transcends religion!! One of Baul's iconic composer "Lalon Shah" was a Bengali spiritual leader, philosopher and mystic. It is believed that he highly influenced Ravindranath Tagore. <i> Lalon's philosophy of humanity rejects all distinctions of caste, class, and creed and takes stand against theological conflicts and racism. It denies all worldly affairs in search of the soul and embodied the socially transformative role of sub-continental <b> Bhakti and Sufism </b> </i>
+<br>
+<h1>A painting of the spiritual mystic Lalon Shah by Ravindranath Tagore's older brother</h1>
 <img src="https://csurbhi.github.io/myblog/assets/Fakir_Lalon_Shah.jpeg" alt="A painting of the spiritual mystic Lalon Shah by Ravindranath Tagore's older brother">
-
+<br>
 
 <p> Most of Ravindranath Tagore's work was written in
 Shantiniketan (Abode of Peace), the small town that grew around the school he
@@ -128,6 +130,9 @@ novels, playwrights, essays on politics, literature, culture, social change,
 religious beliefs, philosophical analysis, international relations and much
 else. He also painted pictures and depicted a mix of representation and
 whimsical abstraction.
+
+<h1> Outdoor Studies held at Shantiniketan </h1>
+<img src="https://csurbhi.github.io/myblog/assets/Shantiniketan.jpg" alt="Outdoor Studies held at Shantiniketan">
 
 <p> It is interesting to note that Tagore's idea of Shantiniketan inspired
 Leonard Elmhirst to set up Dartington Hall in UK and Mushanokōji Saneatsu to
@@ -170,8 +175,9 @@ Into that heaven of freedom, my Father, let my country awake!
 
 <img src="https://csurbhi.github.io/myblog/assets/Tagore-Einstein.jpg"
 alt="Ravindranath Tagore and Einstein at the later's residence">
+<br>
 <p> The legendary scientist Albert Einsteing and the very famous Ravindranath Tagore met for the first time in 1926 in Germany.
-On July 14, 1930 Ravindranath Tagore was welcomed by Einstein at the later's home in Kaputh, near Potsdam, in Germany. They met the third and fourth time again at this location and the fifth time in New York! Einstein spoke in German and Tagore spoke in English, their communication was translated. They shared a deep mutual respect! Einstein alluded to Tagore as a Rabbi (teacher) and the Tagore turned down the offer of a Doctorate from Berlin University as a protest against Nazi treatment of Einstein! Einstein also co-sponsored the "The Golden Book of Tagore" along with Jagadish Chandra Bose, and Gandhi.
+On July 14, 1930 Ravindranath Tagore was welcomed by Einstein at the later's home in Kaputh, near Potsdam, in Germany. They met the third and fourth time again at this location and the fifth time in New York! Einstein spoke in German and Tagore spoke in English, their communication was translated. They shared a deep mutual respect! Einstein alluded to Tagore as a Rabbi (teacher) and the Tagore turned down the offer of a Doctorate from Berlin University as a protest against Nazi treatment of Einstein! Einstein also co-sponsored the "The Golden Book of Tagore" along with Jagadish Chandra Bose, and Gandhi, this book is a compilation of Homage to Tagore on account of his 70th Birthday.
 
 The two had a very intellectually stimulating discussion on science, dual vs non-dual reality. Einstein believed in duality, that God and humans are separate. According to Einstein an object exists weather humans exist or not. According to Tagore who was anchored in non-duality, the existence and beauty of an object matters only through a living being's mind. When the mind ceases to exist, the object ceases to exist, ceases to be beautiful, that is the object's existence is linked to the mind's making it one. Tagore later rephrased his sentiments as "This world is a human world – the scientific view of it is also that of
 the scientific man. Therefore, the world apart from us does not exist;
