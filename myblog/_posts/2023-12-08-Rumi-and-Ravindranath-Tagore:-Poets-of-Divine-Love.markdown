@@ -329,7 +329,7 @@ reader!!*
 Here is a poem by Ravindranath Tagore, that I love a lot! I learnt this as a
 child, at my school. I was startled to learn a song about God that was so
 simple and that evoked surrendering or seeing God everywhere!
-So beautiful <3  
+So beautiful! 
 <blockquote>
 
 	HAVE you not heard his silent, steps?<br>
@@ -436,10 +436,11 @@ the universe, is all love – the love that is the highest truth being the most 
 relationship.
 </blockquote>
 
+
 How lucky are we to read these great words that came from the minds of these blessed souls!! How many hearts they touch, how much love they spread, and how eternal they are.
 I am an absolute fangirl of Rumi and Rabindranath Tagore and as I learn more, I obsess more!
-
 </section>
+
 
 <footer>
     <p>Created with love and deep admiration for Rumi, Ravindrnath Tagore and all the mystics and kind hearted human beings!</p>
