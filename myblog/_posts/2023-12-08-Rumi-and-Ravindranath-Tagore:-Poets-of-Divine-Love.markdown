@@ -112,11 +112,17 @@ as nationalism, poverty, etc.
 command over "Arabic" and "Persian". Ravindranath grew in an atmosphere in
 which a deep knowledge of Sanskrit and ancient Hindu texts was combined with
 an understanding of Islamic traditions as well as Persian literature. His
-outlook was persistently non sectarian!
+outlook was persistently non sectarian! Ravindranath Tagore was also influenced by Baul devotionalism. 
 
-<p> Most of his work was written in
+Bauls are a group of mystic minstrels of mixed elements of Suifism and Vaishnavism from Bengal (West and East),
+Tripura, Assam, and Meghalaya of India.  Baul music celebrates celestial love, but does this in very earthy terms, as in declarations of love by the Baul for his lifemate. With such a liberal interpretation of love, it is only natural that Baul devotional music transcends religion!! One of Baul's iconic composer "Lalon Shah" was a Bengali spiritual leader, philosopher and mystic. It is believed that he highly influenced Ravindranath Tagore. <i> Lalon's philosophy of humanity rejects all distinctions of caste, class, and creed and takes stand against theological conflicts and racism. It denies all worldly affairs in search of the soul and embodied the socially transformative role of sub-continental <b> Bhakti and Sufism </b> </i>
+<img src="https://csurbhi.github.io/myblog/assets/Fakir_Lalon_Shah.jpeg" alt="A painting of the spiritual mystic Lalon Shah by Ravindranath Tagore's older brother">
+
+
+<p> Most of Ravindranath Tagore's work was written in
 Shantiniketan (Abode of Peace), the small town that grew around the school he
-founded in Bengal in 1901. Tagore was no only a great poet, but he was also a
+founded in Bengal in 1901. It celebrated variety and forged an inclusive vision.
+ Tagore was no only a great poet, but he was also a
 versatile writer, music composer, painter. He wrote many short stories,
 novels, playwrights, essays on politics, literature, culture, social change,
 religious beliefs, philosophical analysis, international relations and much
@@ -132,42 +138,58 @@ grassroot level and instil an education system that was wholistic.
 dressed in non-Western clothes – may, to some extent, have encouraged his
 being seen as a carrier of exotic wisdom. Yasunari Kawabata, the first
 Japanese Nobel Laureate in Literature, treasured memories from his middle-school
-days of “this sage-like poet”:
-
-His white hair flowed softly down both sides of his forehead; the tufts of hair under
+days of “this sage-like poet”: "His white hair flowed softly down both sides of his forehead; the tufts of hair under
 the temples also were long like two beards, and linking up with the hair on his cheeks,
-continued into his beard, so that he gave an impression, to the boy I was then, of
-some ancient Oriental wizard!
+continued into his beard, so that he gave an impression, to the boy I was then , of
+some ancient Oriental wizard!"
 
 <p> In my humble opinion, his poems on God and his appearance caused Yeats
 (who translated Geetanjali to English) to typecast him as a mystic. But
-Ravindranath Tagore, was not a mystic. He was not an enlightened soul like
+Ravindranath Tagore, was not just a mystic. He was not an enlightened soul like
 Rumi. He was very much a versatile worldly person, who took interest in
 politics, plays, painting. His non mystic endevors frustrated his Western
-followers who romantacised him to be singularly mystic.
+followers who romantacised him to be singularly mystic. It is only reasonable to read Tagore's famous tribute to the ideal homeland here!
+<h3> Tagore's famous tribute to an ideal homeland </h3>
+<blockquote>
+Where the mind is without fear and the head is held high <br>
+Where knowledge is free <br>
+Where the world has not been broken up into fragments <br>
+By narrow domestic walls <br>
+Where words come out from the depth of truth <br>
+Where tireless striving stretches its arms towards perfection <br>
+Where the clear stream of reason has not lost its way <br>
+Into the dreary desert sand of dead habit <br>
+Where the mind is led forward by thee <br>
+Into ever-widening thought and action <br>
+Into that heaven of freedom, my Father, let my country awake!
+</blockquote>
 
-<p> It is also very interesting to know that while many believe that Ravindranath's poems had a Hindu influence, Ravindranath was a member of the reformist group Brahmo Samaj. Brahmo Samaj rejected many practises in the Hindu religion as abberations. While it branched out of Hinduism, it was heavily influenced by Christianity. It was started by Keshab Chandra Sen. Ravindranath Tagore's father Debendranath Tagore was a founding member of Brahmo Samaj. When Keshab Chandra Sen passed away, Debendranath appointed Ravindranath as Brahmo Samaj's secretary. During this period, Hinduism received revived energy due to the presence of Sri Ramkrishna Paramhansa. Many of Paramhansa's followers published monthly magazines "Nabajiban" and "Prachar", these talked about the greatness of Hinduism over Brahmoism. Ravindranath Tagore heavily criticised these articles! Ravindranath Tagore was a person of logic and all his worldly actions were very much influenced by logic than religion. 
+
+<p> It is also very interesting to know that while many believe that Ravindranath's poems had a Hindu influence, Ravindranath was a member of the reformist group Brahmo Samaj. Brahmo Samaj rejected many practises in the Hindu religion as abberations. While it branched out of Hinduism, it was heavily influenced by Christianity. It was founded by Raja Ram Mohan Roy. Ravindranath Tagore's father Debendranath Tagore was a founding member of Brahmo Samaj. At one point, Debendranath appointed Ravindranath as Brahmo Samaj's secretary. During this period, Hinduism received revived energy due to the presence of Sri Ramkrishna Paramhansa. Many of Paramhansa's followers published monthly magazines "Nabajiban" and "Prachar", these talked about the greatness of Hinduism over Brahmoism. Ravindranath Tagore heavily criticised these articles! Ravindranath Tagore was a person of logic and all his worldly actions were very much influenced by logic than religion. 
 
 
 <img src="https://csurbhi.github.io/myblog/assets/Tagore-Einstein.jpg"
 alt="Ravindranath Tagore and Einstein at the later's residence">
-<p> On July 14, 1930 Ravindranath Tagore was welcomed by Einstein at the later's home.  The two had a very intellectually stimulating discussion on science, dual vs non-dual reality. Einstein believed in non-duality, that God and humans are separate as truth and humans are separate. According to Einstein an object exists weather humans exist or not. According to Tagore who was anchored in non-duality, the existence of the object matters only through a living being's mind. When the mind ceases to exist, the object ceases to exist. The difference of opinion between the two was due to the difference in religious beliefs. This discussion highlights the essence of Tagore -  he said that "Ideally, every emotion and action should God." While Ravindranath Tagore was not a mystic, he lived his life by this sentiment!
+<p> The legendary scientist Albert Einsteing and the very famous Ravindranath Tagore met for the first time in 1926 in Germany.
+On July 14, 1930 Ravindranath Tagore was welcomed by Einstein at the later's home in Kaputh, near Potsdam, in Germany. They met the third and fourth time again at this location and the fifth time in New York! Einstein spoke in German and Tagore spoke in English, their communication was translated. They shared a deep mutual respect! Einstein alluded to Tagore as a Rabbi (teacher) and the Tagore turned down the offer of a Doctorate from Berlin University as a protest against Nazi treatment of Einstein! 
+
+The two had a very intellectually stimulating discussion on science, dual vs non-dual reality. Einstein believed in duality, that God and humans are separate. According to Einstein an object exists weather humans exist or not. According to Tagore who was anchored in non-duality, the existence and beauty of an object matters only through a living being's mind. When the mind ceases to exist, the object ceases to exist, ceases to be beautiful, that is the object's existence is linked to the mind's making it one. The difference of opinion between the two was due to the difference in religious beliefs. This discussion highlights the essence of Tagore -  he said that "Ideally, every emotion and action should be God." While Ravindranath Tagore was not a mystic, he lived his life by this sentiment!
+
 
 <p> An interesting novel fact about Ravindranath Tagore: He is the only person who has written the 
-national anthems of two countries: India and Bangladesh. He wrote India's national anthem "Jana Gana Mana" and Bandladesh's "Amar sonar Bangla". 
+national anthems of two countries: India and Bangladesh. He wrote India's national anthem "Jana Gana Mana" and Bandladesh's "Amar sonar Bangla". Another interesting fact is that Ravindranath Tagore was awarded the Knighthood in 1915 by the then ruling British King George-V, however Tagore returned it back in 1919 when 379 peaceful demonstrators and innocent people were killed at the Jalianwala Baug under the same rule! Tagore was overwhelmed with shame at carrying a title conferred upon him by the British. Although he did not wish to slight the honor, he implored Viceroy Lord Chelmsford to relinquish the knighthood title (Sir) in solidarity with his countrymen.
 
-<p> The poems of both Ravindranath Tagore and Rumi strung a heart's exalted yearning, ravishing ecstacy and
+</section>
+
+<section>
+<h2> Selected Poetry </h2>
+<img src="https://csurbhi.github.io/myblog/assets/Love.jpg" alt="Pure poetry">
+<p> The poems of both Ravindranath Tagore and Rumi string the heart's exalted yearning, ravishing ecstacy and
 consuming desire! They are as powerful today as they were many years ago!
 An ambiguity about religious experience is central to many of Rumi and Tagore’s devotional
 poems, and makes them appeal to readers irrespective of their beliefs.
 This applies particularly to their many poems which combine images of human love and
 those of pious devotion.
-</section>
-
-
-<section>
-<h2> Selected Poetry </h2>
-<img src="https://csurbhi.github.io/myblog/assets/Love.jpg" alt="Pure poetry">
 <h3> Waiting by Ravindranath Tagore </h3>
 <blockquote>
 	The song I came to sing<br>
@@ -390,13 +412,24 @@ me.</blockquote>
 <br>
 </blockquote>
 
+<h3> Ravindranath Tagore's idea of Supreme Love!
+<blockquote>
+It is not merely the number of protons and electrons which represents the
+truth of an element; it is the mystery of their relationship which cannot be
+analysed. We are made conscious of <b> this truth of relationship </b> immediately
+within us in our love, in our joy; and from this experience of ours we have
+the right to say that the Supreme One, who relates all things, comprehends
+the universe, is all love – the love that is the highest truth being the most perfect
+relationship.
+</blockquote>
+
 How lucky are we to read these great words that came from the minds of these blessed souls!! How many hearts they touch, how much love they spread, and how eternal they are.
-I am an absolute fangirl of Rumi and Rabindranath Tagore!
+I am an absolute fangirl of Rumi and Rabindranath Tagore and as I learn more, I obsess more!
 
 </section>
 
 <footer>
-    <p>Created with love and deep admiration for Rumi and Ravindrnath Tagore</p>
+    <p>Created with love and deep admiration for Rumi, Ravindrnath Tagore and all the mystics and kind hearted human beings!</p>
 </footer>
 
 </body>
