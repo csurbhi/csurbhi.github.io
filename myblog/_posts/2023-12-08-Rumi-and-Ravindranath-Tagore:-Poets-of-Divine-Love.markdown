@@ -175,7 +175,12 @@ On July 14, 1930 Ravindranath Tagore was welcomed by Einstein at the later's hom
 
 The two had a very intellectually stimulating discussion on science, dual vs non-dual reality. Einstein believed in duality, that God and humans are separate. According to Einstein an object exists weather humans exist or not. According to Tagore who was anchored in non-duality, the existence and beauty of an object matters only through a living being's mind. When the mind ceases to exist, the object ceases to exist, ceases to be beautiful, that is the object's existence is linked to the mind's making it one. Tagore later rephrased his sentiments as "This world is a human world – the scientific view of it is also that of
 the scientific man. Therefore, the world apart from us does not exist;
-it is a relative world, depending for its reality upon our consciousness!" The difference of opinion between the two was due to the difference in religious beliefs. This discussion highlights the essence of Tagore -  he said that "Ideally, every emotion and action should be God." While Ravindranath Tagore was not a mystic, he lived his life by this sentiment!
+it is a relative world, depending for its reality upon our consciousness!" 
+For Einstein the Realist  the table in the house had to continue to exist when
+nobody was there. Tagore did not deny the continued existence of the table, but maintained that its existence must be perceived by a conscious human mind
+if it is to mean anything. He also claimed that although we conceive of our con-
+sciousness as individual, it has a universal character such that we can speak of the 'Universal Mind'!
+The difference of opinion between the two was due to the difference in religious beliefs. This discussion highlights the essence of Tagore -  he said that "Ideally, every emotion and action should be God." While Ravindranath Tagore was not a mystic, he lived his life by this sentiment! 
 
 
 <p> An interesting novel fact about Ravindranath Tagore: He is the only person who has written the 
