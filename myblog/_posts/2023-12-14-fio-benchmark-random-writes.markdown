@@ -158,24 +158,56 @@ This is what fio-genzipf code does:
 		}
 	}
 
- 
+
 To summarize, the *fio-genzipf code basically sorts based on hits and presents a summary* that by default is for every 5% hit intervals. The 2nd column shows the percentage hits received by an interval. For example, the above output says that 5% of the random LBAs receive 95% hits.
 
-  
-For zipf, *a higher theta gives smaller tail values*. 
+
+
+For the curious: for zipf a random number is generated and operated on using the zipf formula.
+generate_next_random_nr() in case of zipf is:
+
+	uint64_t zipf_next(struct zipf_state *zs)
+	{
+		double alpha, eta, rand_uni, rand_z;
+		unsigned long long n = zs->nranges;
+		unsigned long long val;
+
+		alpha = 1.0 / (1.0 - zs->theta);
+		eta = (1.0 - pow(2.0 / n, 1.0 - zs->theta)) / (1.0 - zs->zeta2 / zs->zetan);
+
+		rand_uni = (double) **__rand(&zs->rand)** / (double) FRAND32_MAX;
+		rand_z = rand_uni * zs->zetan;
+
+		if (rand_z < 1.0)
+			val = 1;
+		else if (rand_z < (1.0 + pow(0.5, zs->theta)))
+			val = 2;
+		else
+			**val = 1 + (unsigned long long)(n * pow(eta*rand_uni - eta + 1.0, alpha));**
+
+		val--;
+
+		if (!zs->disable_hash)
+			val = __hash_u64(val);
+
+		return (val + zs->rand_off) % zs->nranges;
+	}
+
+
+For zipf, *a higher theta gives smaller tail values*.
 
 **To achieve a 90/10 distribution, specify a theta to be 1.0962**
 
-	$ fio-genzipf -t zipf -i 1.0962	
+	$ fio-genzipf -t zipf -i 1.0962
 	Generating Zipf distribution with 1.096200 input and 500 GiB size and 4096 block_size.
-	
+
 	Rows Hits % Sum % # Hits Size
 	-----------------------------------------------------------------------
 	Top 5.00% 87.80% 87.80% 115084376 439.01G
 	|-> 10.00% 2.20% 90.00% 2885564 11.01G
 
 **To achieve a 80/20 distribution, specify theta to be 0.9517**
-  
+
 
 	$ fio-genzipf -t zipf -i 0.9517
 	Generating Zipf distribution with 0.951700 input and 500 GiB size and 4096 block_size.
