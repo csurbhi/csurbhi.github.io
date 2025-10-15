@@ -36,5 +36,12 @@ alt="Shirin Ebadi">
 <br>
    <img src="https://csurbhi.github.io/myblog/assets/sindhutai_sapkal.jpg"
 alt="Sindhutai Sapkal">
+<br>
    Indian social worker known as the *Mother of Orphans*, who dedicated her life to raising and educating hundreds of abandoned children.
 
+6. **[Jacinda Ardern](https://en.wikipedia.org/wiki/Jacinda_Ardern) ** 🌏
+<br>
+   <img src="https://csurbhi.github.io/myblog/assets/jacinda_ardern.jpg"
+alt="Jacinda Ardern">
+<br>
+ Former Prime Minister of New Zealand, celebrated for her empathetic leadership, progressive policies, and decisive crisis management.
