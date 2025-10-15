@@ -22,8 +22,8 @@
 title: "Bits, Blocks, and Beyond: A Storage Mystic’s Journey"
 email: csurbhi at gmail dot com
 description: "" # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://csurbhi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/myblog" # the subpath of your site, e.g. /blog
 twitter_username: csurbhi
 github_username:  csurbhi
 permalink: /:title/
