@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Tabular vs Multiplicative Hashing"
+---
+
 The pigeon hole principle states that when you try to fit in n pigeons in m
 holes where m < n, a few of the holes will have more than one pigeon. Hashing
 is a technique of mapping a large dictionary to a small sized hash table.
