@@ -1,3 +1,11 @@
+---
+layout: post
+title: "My Favorite Women in This World"
+date: 2025-10-15
+categories: inspiration
+description: "A tribute to women who inspire me every day."
+--- 
+
 # My Favorite Women in This World
 
 1. **[Jane Goodall](https://en.wikipedia.org/wiki/Jane_Goodall)** 🐒
