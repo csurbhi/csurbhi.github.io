@@ -1,0 +1,23 @@
+<h2> The joys of hdparm </h2>
+
+While experimenting with my Device managed SMR drive, I had the fortune of using hdparm to erase the drive - I bravely attempted this to essential erase the cache.
+This blog is for anyone who had similar wisdom to tread the path less traveled because thank God that sanity persists in most others (in comparision to me)!
+
+Steps that I followed:
+* hdparm --user-master u --security-set-pass <some-password> /dev/sdx // password cannot be empty!
+* hdparm -I /dev/sdx  // you should see that the security is enabled!
+* hdparm --user-master u --security-set-pass <some-password> /dev/sdx
+
+This command did not complete for my drive. When I rebooted, the drive asked me the password and I could not remove the password by the following command:
+* hdparm --user-master u --security-disable <some-password> /dev/sdX.
+
+This was because, when the erase command fails, the drive goes in a locked and frozen state. To remove the password, you first need to unlock the security features.
+I could only unfreeze the drive by unplugging the drive and reattaching it. I checked the status by hdparm -I /dev/sdX command and saw that indeed the drive was unfrozen.
+Once that was done, I fired the following commands to unlock the security feature.
+
+* sudo hdparm --user-master u --security-unlock <some-password> /dev/sdx
+
+Next I removed the password by disabling security and voila I was back in the free zone that I longed so desperately to be in!
+
+* hdparm --user-master u --security-disable <some-password> /dev/sdX.
+
